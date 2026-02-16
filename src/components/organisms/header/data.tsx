@@ -19,6 +19,11 @@ export const participateMenuData = [
     href: "/participate/local-communities",
     description: "Connect with thriving local tech communities near you.",
   },
+  {
+    title: "Newsletter",
+    href: "/association/newsletter",
+    description: "Subscribe to our newsletter and stay up to date.",
+  },
 ]
 
 //* Contribute Menu Data
@@ -61,11 +66,6 @@ export const associationMenuData: {
     title: "Activate a Membership",
     href: "/association/join",
     description: "Support our mission by becoming a Schroedinger member.",
-  },
-  {
-    title: "Newsletter",
-    href: "/association/newsletter",
-    description: "Subscribe to our newsletter and stay up to date.",
   },
   {
     title: "Statute",

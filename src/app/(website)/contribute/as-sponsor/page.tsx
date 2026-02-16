@@ -109,7 +109,7 @@ export default function BecomeSponsorPage() {
         />
       </SectionContainer>
 
-      <SectionContainer>
+      <SectionContainer className="hidden">
         <div className="grid grid-cols-1 gap-8 md:grid-cols-2">
           {/* Gold tier */}
           <div className="space-y-6 rounded-2xl bg-gradient-to-b from-[#DAA520] to-[#B98B15] p-6 text-white shadow-lg">
