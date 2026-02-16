@@ -19,11 +19,6 @@ export const participateMenuData = [
     href: "/participate/local-communities",
     description: "Connect with thriving local tech communities near you.",
   },
-  {
-    title: "Discord",
-    href: "https://discord.gg/eK7bDYrnnR",
-    description: "Be part of the conversation on our Discord server.",
-  },
 ]
 
 //* Contribute Menu Data
